@@ -1,0 +1,7 @@
+streamlit
+chromadb
+torch
+transformers
+pandas
+pillow
+tqdm
